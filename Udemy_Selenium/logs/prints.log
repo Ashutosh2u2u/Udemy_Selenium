@@ -1,0 +1,4 @@
+17:03:30.825 [main] DEBUG logAlpha.Log4jTest - This is just to debug
+17:03:30.829 [main] ERROR logAlpha.Log4jTest - my test get failed
+17:03:30.830 [main] FATAL logAlpha.Log4jTest - Test gets fetal 
+17:03:30.830 [main] INFO  logAlpha.Log4jTest - my test works fine
