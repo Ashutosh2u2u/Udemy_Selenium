@@ -20,7 +20,8 @@ prop.setProperty("browser", "firefox");
 System.out.println(prop.getProperty("browser"));
 FileOutputStream fos =new FileOutputStream("D:\\Automation\\GithubAssignment\\Udemy_Selenium\\data.properties");
 //to store new updates in property file
+
 prop.store(fos, null);
-}
+} 
 }
 
